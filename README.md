@@ -1,1 +1,1 @@
-# Data-Anaysis
+I developed a comprehensive data analysis and visualization tool that processes sales data from an e-commerce platform. The tool reads data from a CSV file, categorizes sales information by month, day, hour, and country, and calculates key metrics such as total orders and revenue. I utilized Python's libraries like matplotlib and seaborn to create various bar charts, which visually represent sales trends over different time periods and across various regions. 
